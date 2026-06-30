@@ -1,0 +1,6 @@
+Model,Best Params,Accuracy,Precision,Recall,F1 Score,ROC AUC
+Logistic Regression,{'classifier__C': 0.1},0.7857,0.3858,0.7313,0.5052,0.8697
+Decision Tree,"{'classifier__max_depth': 10, 'classifier__min_samples_leaf': 5}",0.7746,0.3692,0.7164,0.4873,0.7753
+Random Forest,"{'classifier__max_depth': 10, 'classifier__min_samples_leaf': 5, 'classifier__n_estimators': 200}",0.8906,0.6216,0.6866,0.6525,0.882
+XGBoost,"{'classifier__learning_rate': 0.1, 'classifier__max_depth': 3, 'classifier__n_estimators': 200}",0.8705,0.5529,0.7015,0.6184,0.8905
+Voting Ensemble (LR + RF),soft voting of tuned LR + RF,0.8438,0.4845,0.7015,0.5732,0.8876

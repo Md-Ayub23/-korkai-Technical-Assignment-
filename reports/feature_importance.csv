@@ -1,0 +1,23 @@
+Feature,Importance
+num__TotalAcceptedCmp,0.1682112176964349
+num__Customer_Tenure,0.15117084998218056
+num__Recency,0.1462312834278465
+num__Total_Spending,0.12490829053565114
+num__Income,0.10920961659809385
+num__NumWebVisitsMonth,0.05509532739011892
+num__Previous_Purchase,0.05160181519522684
+num__Age,0.05062188855620729
+num__Children,0.03440103837837136
+num__NumDealsPurchases,0.029985841828158055
+cat__Education_PhD,0.013868731164715747
+cat__Marital_Status_Single,0.01305905327334166
+cat__Marital_Status_Married,0.012983948828867598
+cat__Marital_Status_Together,0.012524324691279558
+cat__Education_Graduation,0.010449290416313617
+cat__Education_Master,0.005079454858683972
+cat__Marital_Status_Divorced,0.004474474898283121
+cat__Education_2n Cycle,0.0025534297335798456
+cat__Education_Basic,0.002019198367953092
+cat__Marital_Status_Widow,0.0014762086250525394
+num__Complain,7.471555364004777e-05
+cat__Marital_Status_Other,0.0
